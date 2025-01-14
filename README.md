@@ -18,6 +18,3 @@ Instructions on how to run your program
      - when it prompts for coordinates input 4 integers with spaces in between them and press enter
 
 
-An indication on whether you implemented the bonus or not
-     - no bonus
-
