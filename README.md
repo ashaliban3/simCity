@@ -1,20 +1,12 @@
-The names of all developers you teamed with during the design phases :
-     - Ruby Estrada
-     - Leah Gordon
-     - Paulina Sanchez
 
+SimCity
 
+SimCity is a C++ project designed to simulate city-building functionality. It allows users to interact with a virtual city by configuring and setting parameters.
 
-Instructions on how to compile your program:
-      -    Compile the program using a C++ compiler:
-           g++ main.cpp initialize.cpp -o program
+Files
 
-
-
-Instructions on how to run your program
-     - ./program
-     - after prompt, input 'configt1.txt'
-     - press enter
-     - when it prompts for coordinates input 4 integers with spaces in between them and press enter
-
-
+main.cpp: Contains the main program that initiates the city simulation.
+initialize.cpp: Handles the initialization of the simulation by reading configuration data from a file.
+initialize.h: Header file corresponding to initialize.cpp.
+config1.txt: A configuration file that contains necessary data to initialize the simulation.
+region1.csv: Contains data related to different regions in the simulation.
